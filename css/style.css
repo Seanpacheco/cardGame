@@ -1,0 +1,19 @@
+body {
+  background-color: #00512C
+}
+h1 {
+  color: orange;
+}
+div {
+  width: 100%
+}
+#clickMe {
+  background-color: orange;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
