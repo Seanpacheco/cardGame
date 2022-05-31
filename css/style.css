@@ -1,12 +1,21 @@
 body {
-  background-color: #00512C
+  background-color: #00512C;
+  font-family: Arial, Helvetica, sans-serif;
 }
+
+header {
+  padding-bottom: 10px;
+}
+
 h1 {
   color: orange;
+  font-size: 2rem;
 }
+
 div {
-  width: 100%
+  width: 100%;
 }
+
 #clickMe {
   background-color: orange;
   border: none;
